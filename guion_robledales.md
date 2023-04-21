@@ -11,7 +11,7 @@
 >
 > 
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_robledales_ecologia_ccaa/main/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_robledales_ecologia_ccaa/main/imagenes/portada.jpg)
 
 
 
@@ -20,11 +20,10 @@
 Este guión tiene los siguientes objetivos que deberán de ser satisfechos por los estudiantes que preparan esta actividad. 
 
 + Disciplinares (relacionados con la ecología): Estos objetivos son, además, los que deberán de satisfacer los estudiantes que escuchen al grupo que se encarga de la parada. 
-  + Reconocer los procesos sucesionales en los ecosistemas terrestres.
-  + Reconocer el efecto de la competencia intraespecífica en la dinámica y estructura de un sistema forestal.
-  + Identificar a los pinares de repoblación como sistemas generados por la actividad humana con objeto de satisfacer ciertas necesidades (evitar erosión fundamentalmente)
-  + Conocer las dinámicas de usos del suelo que provocan el aumento de la superficia ocupada por pinares de repoblación en la región Mediterránea.
-  + Entender el impacto de las perturbaciones sobre este tipo de ecosistemas. 
+  + Reconocer la importancia de las condiciones climáticas para determinar la presencia de cierto tipo de ecosistemas terrestres.
+  + Entender el concepto de ecotono y más concretamente el de límite del árbol en una zona de montaña. 
+  + Identificar a los robledales de Sierra Nevada como formaciones relícticas con unas características peculiares. 
+  + Comprender el problema que puede suponer el cambio climático para la supervivencia de este tipo de ecosistema. 
 + Instrumentales:
   + Mejorar sus habilidades para trabajar en equipo.
   + Entrenar la capacidad de los estudiantes para construir hilos argumentales.
@@ -34,15 +33,18 @@ Este guión tiene los siguientes objetivos que deberán de ser satisfechos por l
 
 ## Breve descripción de la zona de estudio
 
-La zona de estudio está a una altitud de unos 2100 m, en la ladera izquierda del valle del río San Juan. Es una zona con suaves pendientes. Abundan los esquistos y otras rocas metamórficas. Aunque climáticamente corresponde que en esa zona haya matorrales almohadillados de alta montaña, el territorio está ocupado por pinares de repoblación. Fueron plantados en la década de 1960 y en la actualidad se observan en ellos tanto el efecto de la competencia intraespecífica como las consecuencias de varias perturbaciones (aludes que arrastraron muchos ejemplares). Antes de la existencia de estos pinares la zona estaba ocupada por cultivos marginales de alta montaña. Esta parada es una estupenda oportunidad para estudiar el efecto del cambio de uso del suelo sobre la estructura y funcionamiento de los ecosistemas. La siguiente imagen muestra esta historia de cambio de uso en forma de una secuencia de fotografías aéreas desde 1956 hasta 2020.
-
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_pinares_alta_montania_ecologia_cca/main/imagenes/cambio_usos.png)
+El bosque que estudiamos en esta parada se encuentra en la ladera norte del valle del río Monachil, un poco más abajo del núcleo urbano de Pradollano. Se localiza entre los 1600 m y los 1800 m de altitud. Se trata de un bosque en el que el roble melojo (*Quercus pyrenaica*) es la espsecie arbórea dominante. En el sotobosque hay algunos piornos (*Genista sp*) y rascaviejas (*Adenocarpus decorticans*). Lamentablemente no podremos ver en directo este bosque. Solo lo observaremos en la distancia, desde la ladera de enfrente, a pocos metros del Jardín Botánico de la Hoya de Pedraza. 
 
 En el siguiente mapa puedes ver la ubicación de la parada en la que realizaremos esta actividad. Es un mapa dinámico en el que puedes interactuar con los distintos elementos. Si haces click en los puntos verás fotos e información relevante.
 
 
 
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1v5J2WrkVCOxW-U4rpS1-fTwVDqdFodk&ehbc=2E312F" width="640" height="680"></iframe>
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1v92Sdz742xAcRQnEZZikcKBGTlXIVxE&ehbc=2E312F" width="640" height="680"></iframe>
+
+
+
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_robledales_ecologia_cca/main/imagenes/ndvi_robledal.png)
 
 La siguiente imagen muestra la evolución temporal de la producción primaria en la zona de estudio usando el índice NDVI (ver [guión](https://aprendiendo-cosas.github.io/P_NDVI_ecologia_ccaa/guion_ndvi.html) sobre la práctica de producción primaria). Se observa claramente cómo baja la producción primaria justo después de las perturbaciones. ¿por qué no se regenera el pinar después del alud? También se observa la dinámica de los pinares que no se han visto afectados por el alud. 
 
