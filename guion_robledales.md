@@ -44,13 +44,13 @@ En el siguiente mapa puedes ver la ubicación de la parada en la que realizaremo
 
 
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_robledales_ecologia_cca/main/imagenes/ndvi_robledal.png)
-
-La siguiente imagen muestra la evolución temporal de la producción primaria en la zona de estudio usando el índice NDVI (ver [guión](https://aprendiendo-cosas.github.io/P_NDVI_ecologia_ccaa/guion_ndvi.html) sobre la práctica de producción primaria). Se observa claramente cómo baja la producción primaria justo después de las perturbaciones. ¿por qué no se regenera el pinar después del alud? También se observa la dinámica de los pinares que no se han visto afectados por el alud. 
 
 
+La siguiente imagen muestra la tendencia en la producción primaria  (ver [guión](https://aprendiendo-cosas.github.io/P_NDVI_ecologia_ccaa/guion_ndvi.html) sobre la práctica de producción primaria) de toda la ladera en la que se encuentra el robledal. Los colores más rojos indican que en esos sitios hay una tendencia hacia menos producción primaria desde 2000 hasta 2021. Es decir, son lugares en los que hay un retroceso de la capacidad de la vegetación para producir biomasa. Los tonos azules indican lo contrario. También se observa en amarillo el límite del árbol. Por último, a la derecha, se muestra el resultado de un [modelo de distribución de especies](https://en.wikipedia.org/wiki/Species_distribution_modelling) aplicado sobre el *Quercus pyrenaica*. Estos modelos simulan el área de distribución potencial de una especie en función de las condiciones ambientales. En estos modelos se pueden incorporar las condiciones climáticas del presente y también las que predecimos para el futuro. Si se genera un modelo con las condiciones climáticas presentes se obtienen unas zonas adecuadas para que viva el roble. Estas zonas son diferentes a las que se obtienen al incorporar las condiciones climáticas previstas para el futuro. La distribución potencial con clima futuro se encuentra por encima de la distribución actual (rojo en la figura). La zona amarilla de la figura representa los lugares que son adecuados para la especie con el clima presente pero no con el clima futuro. En estas zonas, siempre según el modelo comentado, tenderá a ir desapareciendo el roble. 
 
-![ndvi](https://raw.githubusercontent.com/aprendiendo-cosas/C_pinares_alta_montania_ecologia_cca/main/imagenes/ndvi.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_robledales_ecologia_ccaa/main/imagenes/ndvi_robledal.png)
+
+
 
 
 
@@ -59,9 +59,7 @@ La siguiente imagen muestra la evolución temporal de la producción primaria en
 ## Aspectos teóricos a considerar en la explicación
 
 Para satisfacer los objetivos de aprendizaje, los estudiantes deberán tener en cuenta los siguientes aspectos teóricos. Además de enumerar los conceptos importantes, se incluyen enlaces a material de interés. Se valorará que los estudiantes aporten otros materiales relevantes. Recordad que si usáis herramientas de inteligencia artificial debéis de tener en cuenta [estas](https://aprendiendo-cosas.github.io/ecologia_CCAA_UCO/normas_IA.html) normas. 
-+ Concepto de competencia intraespecífica. [Aquí](https://rawcdn.githack.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/2022-2023/guion_competencia_intraespecifica.html) puedes ver el guión de la sesión teórica y [aquí](https://rawcdn.githack.com/aprendiendo-cosas/P_comp_intra_ecologia_CCAA/2022-2023/guion_competencia_intraespecifica_pinares.html) el de la práctica que hicimos sobre el asunto. 
-  
-+ Características y gestión de los pinares de Sierra Nevada. [Este](https://github.com/aprendiendo-cosas/C_pinares_alta_montania_ecologia_cca/raw/main/biblio/varios_observatorio_sierra_nevada.pdf) documento recopila algunos artículos con información relevante sobre los pinares de Sierra Nevada. 
++ Concepto de límite del árbol. En [este](https://es.wikipedia.org/wiki/L%C3%ADmite_del_bosque) artículo de wikipedia hay una buena definición de este término. Y [este](https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2699.2003.01043.x) otro, en este caso un artículo científico, se detalla mucho más la idea. 
   
 + Concepto de producción primaria.
   
@@ -69,21 +67,17 @@ Para satisfacer los objetivos de aprendizaje, los estudiantes deberán tener en 
   
   + El [guión de la práctica sobre producción primaria](https://aprendiendo-cosas.github.io/P_NDVI_ecologia_ccaa/guion_ndvi.html) también será de ayuda para explicar los conceptos teóricos de interés. 
   
-+ Cambio de usos del suelo. Una de las claves de esta parada es interpretar y entender cómo han cambiado los usos del suelo a lo largo del tiempo. Esto explica la situación actual del sistema estudiado. [Este](https://portalrediam.cica.es/comparaWMS/index.html) visor de fotografías aéreas de la Junta de Andalucía permite conocer cómo ha evolucionado la zona de estudio a lo largo del tiempo. Se puede visualizar la estructura de la vegetación en distintos momentos temporales.
-
-+ Concepto de sucesión ecológica. La sucesión ecológica como proceso natural tiende a regenerar un bosque en la zona estudiada. Los distintos usos del suelo y las perturbaciones que han ocurrido a lo largo del tiempo ayudan o impiden (según el caso) el desarrollo de la sucesión ecológica. El [guión del tema de sucesión](https://aprendiendo-cosas.github.io/Te_ecosistemas_sucesion_ecologia_ccaa/guion_sucesion.html) ecológica contiene elementos importantes a tener en cuenta.
++ Concepto de sucesión ecológica. El [guión del tema de sucesión](https://aprendiendo-cosas.github.io/Te_ecosistemas_sucesion_ecologia_ccaa/guion_sucesion.html) ecológica contiene elementos importantes a tener en cuenta. En este caso, el proceso de sucesión ecológica opera como consecuencia del ascenso altitudinal que experimentarán los robledales como consecuencia del cambio climático.
 
   
 
 
 ## Aspectos aplicados a considerar en la explicación
 
-Los aspectos aplicados se refieren a cómo las cuestiones teóricas anteriores se usan para manejar el tipo de ecosistema en cuestión. En este caso, la clave está en la forma en la que se gestionan los pinares de repoblación. Las siguientes fuentes de información son útiles para familiarizarse con el asunto
+Los aspectos aplicados se refieren a cómo las cuestiones teóricas anteriores se usan para manejar el tipo de ecosistema en cuestión. En este caso, la clave está cómo los robledales se ven afectados por el cambio climático. Las siguientes fuentes de información son interesantes para estudiar este efecto:
 
-+ Naturalización de pinares. Se refiere al proceso por el cual los pinares densos, monoespecíficos y coetaneos se transforman en masas más heterogeneas. [Este](https://www.juntadeandalucia.es/medioambiente/portal/areas-tematicas/medio-forestal/actuaciones-y-obras-forestales/naturalizacion-y-mejora-de-masas-forestales/naturalizacion-de-pinares) texto de la Junta de Andalucía aporta información al respecto. 
-  
-+ Ordenación de montes. Se trata de una técnica propia de las ciencias forestales y que permite poner en práctica la mencionada naturalización. 
-  
++ [Este](https://journals.plos.org/climate/article?id=10.1371%2Fjournal.pclm.0000071) artículo muestra cómo ha cambiado la vegetación de zonas montañosas de Norteamérica en los últimos 27 años.
++ En [este](https://www.miteco.gob.es/es/red-parques-nacionales/boletin/dossierelcambioglobalsierranevada_tcm30-68957.pdf) libro hay algunos capítulos dedicados al impacto del cambio climático en los robledales de Sierra Nevada. 
 
 Si los estudiantes identifican otros aspectos aplicados, pueden incorporarlos a la lista sin problema. 
 
@@ -93,9 +87,7 @@ Si los estudiantes identifican otros aspectos aplicados, pueden incorporarlos a 
 
 Este último bloque se refiere al conjunto de retos a los que nos enfrentamos para gestionar de manera sostenible este tipo de ecosistema. Al igual que antes, se trata de una lista abierta, así que cualquier contribución de los estudiantes que harán de profesores, será más que bienvenida. Esta sección nos permitirá conectar con la asignatura que veremos en tercero: *Gestión de ecosistemas*. 
 
-+ Decaimiento forestal. La combinación de una excesiva competencia intraespecífica y el cambio climático pueden provocar procesos de debilitamiento y eventualmente colapso de los pinares de repoblación. Uno de los principales retos de gestión en nuestra época es reducir el riesgo de decaimiento. [Este](https://www.juntadeandalucia.es/medioambiente/portal/areas-tematicas/medio-forestal/sanidad-forestal/seca-y-decaimiento-forestal/coniferas) texto resume bien en qué consiste este proceso y cómo mitigarlo. 
-
-
+En este caso el principal reto de gestión tiene que ver con las consecuencias del cambio climático. La documentación descrita anteriormente también aplica aquí. Además, sería interesante que los estudiantes buscaran algo de material para describir cómo se gestionan estos bosques en un contexto de cambio climático. 
 
  
 
