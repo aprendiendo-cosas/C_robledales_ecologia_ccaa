@@ -107,19 +107,3 @@ Elaborar un hilo argumental coherente requiere práctica. Os cuento a continuaci
 Además, la intervención debe de tener una estructura bien definida. Es decir, debéis de usar los consejos anteriores para definir un hilo argumental concreto. Podéis empezar hablando del tipo de ecosistema que estemos visitando para luego seguir, por ejemplo, enumerando los factores ambientales que determinan su estructura y funcionamiento. Esto es solo una sugerencia. Podéis plantear otras opciones. 
 
 
-
-## Histórico de interacciones del equipo de trabajo con el profesor
-
-
-
-En esta sección se enumeran las interacciones entre el profesor y el equipo de trabajo. También se enlazan los documentos entregados por los estudiantes y los comentarios hechos a los mismos por el profesor. 
-
-+ Viernes 21 de abril. El profesor aporta este guión.
-+ Lunes 8 de mayo. Los estudiantes hacen la primera propuesta de hilo argumental. Se representa como un breve texto (no más de 4 páginas) en el que se describen los elementos a abordar durante la parada. Puede incluir imágenes, mapas, etc. Debéis subirlo [aquí](https://www.turnitin.com/t_submit.asp?r=55.4588105722505&svr=37&lang=en_us&aid=134318496). 
-+ Entregas parciales. Aquí iré añadiendo comentarios relacionados con las entregas parciales realizadas y con las interacciones entre el grupo y el profesor.
-+ Lunes 5 de junio. Entrega final del siguiente material:
-  + Guión descrito anteriormente con mejoras respecto a la versión inicial.
-  + Reflexiones sobre cómo ha sido el trabajo en equipo. Los miembros del grupo deberán consensuar un breve texto que indique cuál ha sido la contribución al trabajo de cada uno de los miembros del equipo.
-  + Cada miembro del equipo deberá de escribir un párrafo describiendo cómo ha sido el aprendizaje durante la realización de la actividad. Ej. qué actividades han provocado más aprendizaje, etc.
-  + Recopilación de los comentarios realizados por el resto de la clase cuando se realiza la actividad en el campo.
-  + Propuesta de pregunta de examen sobre la actividad realizada. Será una pregunta de desarrollo cuya resolución implique un aprendizaje por parte de los estudiantes. 
