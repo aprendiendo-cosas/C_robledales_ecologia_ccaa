@@ -52,10 +52,6 @@ La siguiente imagen muestra la tendencia en la producción primaria  (ver [guió
 
 
 
-
-
-
-
 ## Aspectos teóricos a considerar en la explicación
 
 Para satisfacer los objetivos de aprendizaje, los estudiantes deberán tener en cuenta los siguientes aspectos teóricos. Además de enumerar los conceptos importantes, se incluyen enlaces a material de interés. Se valorará que los estudiantes aporten otros materiales relevantes. Recordad que si usáis herramientas de inteligencia artificial debéis de tener en cuenta [estas](https://aprendiendo-cosas.github.io/ecologia_CCAA_UCO/normas_IA.html) normas. 
@@ -78,6 +74,7 @@ Los aspectos aplicados se refieren a cómo las cuestiones teóricas anteriores s
 
 + [Este](https://journals.plos.org/climate/article?id=10.1371%2Fjournal.pclm.0000071) artículo muestra cómo ha cambiado la vegetación de zonas montañosas de Norteamérica en los últimos 27 años.
 + En [este](https://www.miteco.gob.es/es/red-parques-nacionales/boletin/dossierelcambioglobalsierranevada_tcm30-68957.pdf) libro hay algunos capítulos dedicados al impacto del cambio climático en los robledales de Sierra Nevada. 
++ [Este](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=web&cd=&ved=0CAQQw7AJahcKEwjQxIbP-tP-AhUAAAAAHQAAAAAQAw&url=https%3A%2F%2Fdigibug.ugr.es%2Fbitstream%2Fhandle%2F10481%2F79907%2FManualRobledalesLifeAdaptamed.pdf%3Fsequence%3D1%26isAllowed%3Dy&psig=AOvVaw0bTFA8_rDo5t1dttHW9PKc&ust=1683024858794160) libro sintentiza toda la información disponible hasta la fecha sobre los robledales de Sierra Nevada. Es la referencia más recomendable de todas las aportadas en este guión.
 
 Si los estudiantes identifican otros aspectos aplicados, pueden incorporarlos a la lista sin problema. 
 
@@ -105,5 +102,4 @@ Elaborar un hilo argumental coherente requiere práctica. Os cuento a continuaci
 + Añadir referencias a elementos que los estudiantes ya saben (o deberían de saber...). Esto fomenta el aprendizaje profundo.
 
 Además, la intervención debe de tener una estructura bien definida. Es decir, debéis de usar los consejos anteriores para definir un hilo argumental concreto. Podéis empezar hablando del tipo de ecosistema que estemos visitando para luego seguir, por ejemplo, enumerando los factores ambientales que determinan su estructura y funcionamiento. Esto es solo una sugerencia. Podéis plantear otras opciones. 
-
 
