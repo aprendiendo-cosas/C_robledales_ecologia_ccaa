@@ -1,4 +1,4 @@
-# Guión para preparar la parada denominada "Pinares de repoblación de alta montaña"
+# Guión para preparar la parada denominada "Robledales de *Quercus pyrenaica*"
 
 
 > + **_Versión_**: 2023-2024
@@ -13,7 +13,7 @@
 >
 > 
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_robledales_ecologia_ccaa/refs/tags/2023_2024/imagenes/portada.jpg)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_robledales_ecologia_ccaa/refs/tags/2023-2024/imagenes/portada.jpg)
 
 
 ## Objetivos
@@ -49,7 +49,7 @@ En el siguiente mapa puedes ver la ubicación de la parada en la que realizaremo
 
 La siguiente imagen muestra la tendencia en la producción primaria  (ver [guión](https://raw.githack.com/aprendiendo-cosas/P_NDVI_ecologia_ccaa/2023_2024/guion_ndvi.html) sobre la práctica de producción primaria) de toda la ladera en la que se encuentra el robledal. Los colores más rojos indican que en esos sitios hay una tendencia hacia menos producción primaria desde 2000 hasta 2021. Es decir, son lugares en los que hay un retroceso de la capacidad de la vegetación para producir biomasa. Los tonos azules indican lo contrario. También se observa en amarillo el límite del árbol. Por último, a la derecha, se muestra el resultado de un [modelo de distribución de especies](https://en.wikipedia.org/wiki/Species_distribution_modelling) aplicado sobre el *Quercus pyrenaica*. Estos modelos simulan el área de distribución potencial de una especie en función de las condiciones ambientales. En estos modelos se pueden incorporar las condiciones climáticas del presente y también las que predecimos para el futuro. Si se genera un modelo con las condiciones climáticas presentes se obtienen unas zonas adecuadas para que viva el roble. Estas zonas son diferentes a las que se obtienen al incorporar las condiciones climáticas previstas para el futuro. La distribución potencial con clima futuro se encuentra por encima de la distribución actual (rojo en la figura). La zona amarilla de la figura representa los lugares que son adecuados para la especie con el clima presente pero no con el clima futuro. En estas zonas, siempre según el modelo comentado, tenderá a ir desapareciendo el roble. 
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_robledales_ecologia_ccaa/refs/tags/2023_2024/imagenes/ndvi_robledal.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_robledales_ecologia_ccaa/refs/tags/2023-2024/imagenes/ndvi_robledal.png)
 
 
 ## Trabajo a realizar por parte de los estudiantes
